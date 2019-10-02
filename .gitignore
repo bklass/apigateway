@@ -1,0 +1,6 @@
+node_modules
+api-fake-products/node_modules
+api-fake-users/node_modules
+package-lock.json
+api-fake-products/package-lock.json
+api-fake-users/package-lock.json
